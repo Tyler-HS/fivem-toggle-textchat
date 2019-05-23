@@ -1,2 +1,2 @@
 # Chat
-# Modified by Tyler#7918 for /textchat function.
+# Modified by Tyler#7918 for /tc function.
